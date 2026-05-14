@@ -1,0 +1,19 @@
+# Python
+backend/.venv/
+backend/__pycache__/
+backend/app/__pycache__/
+backend/app/routers/__pycache__/
+backend/app/services/__pycache__/
+backend/.pytest_cache/
+backend/office_booking.db
+
+# Node / Vue
+frontend/node_modules/
+frontend/dist/
+
+# IDE
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
